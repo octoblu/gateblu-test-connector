@@ -1,6 +1,6 @@
 {
   "name": "gateblu-test-connector",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Gateblu 3.0 test connector",
   "main": "index.js",
   "scripts": {
